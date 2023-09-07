@@ -47,7 +47,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/JUANMONTILLassignment_odin_project_javascript_juanmontilla/issues/).
+Feel free to check the [issues page](https://github.com/JUANMONTILL/assignment_odin_project_javascript_juanmontilla/issues/).
 
 ## Show your support
 
