@@ -1,22 +1,17 @@
-![](https://img.shields.io/badge/Uneweb-blue)
+# Exercises The Odin Project
 
-# Project Name
+> Exercises of JavaScript in HTML.
 
-> One paragraph statement about the project.
-
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
+![screenshot](/Screenshot_2023-09-07_09-52-08.png)
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- JavaScript
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://juanmontill.github.io/assignment_odin_project_javascript_juanmontilla/)
 
 
 ## Getting Started
@@ -48,12 +43,6 @@ To get a local copy up and running follow these simple example steps.
 - GitHub: [@JUANMONTILL](https://github.com/JUANMONTILL)
 - Instagram: [@juanfranc_31](https://instagram.com/juanfranc_31)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
@@ -66,9 +55,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- My family
+- My Teachers
 
 ## 📝 License
 
